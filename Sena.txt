@@ -1,0 +1,15 @@
+Sena,Aumento_Cupos
+Sena,Creacion_Programas
+Sena,Descuentos_en_transporte
+Sena,Capacitaciones_nuevas
+Sena,Remodelacion_de_sedes
+Sena,Plasticos
+Sena,Metales
+Sena,Vidrios
+Sena,Cursos
+Sena,Mecanica
+Sena,Certificados
+Sena,Diplomas
+Sena,Administrativo
+Sena,Profesionalizacion
+Sena,Informatica

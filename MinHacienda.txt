@@ -1,0 +1,15 @@
+MinHacienda,LeyFinanciamiento
+MinHacienda,DevolucionIVA
+MinHacienda,Casas
+MinHacienda,Aptos
+MinHacienda,Impuestos
+MinHacienda,Pension
+MinHacienda,Presupuesto
+MinHacienda,Obras
+MinHacienda,SalarioMinimo
+MinHacienda,CanastaFamiliar
+MinHacienda,NuevosBilletes
+MinHacienda,Impresion
+MinHacienda,Monedas
+MinHacienda,Techos
+MinHacienda,Quitarceros
